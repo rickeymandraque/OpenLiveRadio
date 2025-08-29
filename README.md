@@ -3,7 +3,7 @@
 > Redonner vie à la **Liveradio Vintage** (2009) d’Orange/AwoX — un poste web-radio encore vaillant mais abandonné côté services.
 
 **Pourquoi ce projet ?**  
-Parce qu’un appareil **fonctionnel** ne mérite pas la benne juste parce qu’un portail web a été éteint. Et parce que payer ~**100 €** pour *trois bouts de médium imitation bois, deux plastiques et un hardware à 20 €*, pour qu’en 2025 ça ne lise plus aucune radio… comment dire… **ça craint**. (Orange, on vous fait un petit signe 👃💭.)
+Parce qu’un appareil **fonctionnel** ne mérite pas la benne juste parce qu’un portail web a été éteint. Et parce que payer ~**100 €** pour *trois bouts de médium imitation bois, deux plastiques et un hardware à 20 €*, pour qu’en 2025 (2016/2017 en fait !)  ça ne lise plus aucune radio… comment dire… **ça craint**. (Orange, on vous fait un petit signe 👃💭.)
 
 ---
 
