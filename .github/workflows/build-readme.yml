@@ -1,0 +1,21 @@
+name: Build README
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - assets/openliveradio_banner_slices/-README.template.mdb
+      - assets/openliveradio_banner_slices/README_snippet_banner.md
+      - scripts/build_readme.sh
+      - .github/workflows/build-readme.yml
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build README
+        run: bash scripts/build_readme.sh
+      - name: Commit README
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: build README"
+          file_pattern: README.md
